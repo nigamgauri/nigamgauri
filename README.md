@@ -61,26 +61,6 @@ I bridge the gap between complex research-backed models (RAG optimization, multi
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nigamgauri&show_icons=true&theme=tokyonight" alt="Gauri's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nigamgauri&theme=tokyonight" alt="Gauri's Streak Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>👾 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nigamgauri/nigamgauri/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nigamgauri/nigamgauri/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/nigamgauri/nigamgauri/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
